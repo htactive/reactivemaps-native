@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { View, StyleSheet, Text } from 'react-native';
 import { Button, Icon } from 'native-base';
-import { MapView } from 'expo';
+import MapView from 'react-native-maps';
 
 import {
 	addComponent,
